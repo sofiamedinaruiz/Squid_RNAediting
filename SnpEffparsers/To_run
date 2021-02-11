@@ -1,0 +1,2 @@
+python ./snpEff_parser.py -v Dpe01-carrieRNA.md.mpile.snpEff.vcf
+python ./Genomic_parser_from_SnpEff.py -v /VCF_files/Dpe46/Dpe46.mpile.cds.recode.snpEff.vcf -o VCF_parser_v2/
